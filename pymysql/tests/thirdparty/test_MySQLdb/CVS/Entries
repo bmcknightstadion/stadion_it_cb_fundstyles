@@ -1,0 +1,6 @@
+/__init__.py/1.1/Wed Oct 16 15:17:11 2019//
+/capabilities.py/1.1/Wed Oct 16 15:17:11 2019//
+/dbapi20.py/1.1/Wed Oct 16 15:22:50 2019//
+/test_MySQLdb_capabilities.py/1.1/Wed Oct 16 15:17:11 2019//
+/test_MySQLdb_dbapi20.py/1.1/Wed Oct 16 15:17:11 2019//
+/test_MySQLdb_nonstandard.py/1.1/Wed Oct 16 15:17:11 2019//

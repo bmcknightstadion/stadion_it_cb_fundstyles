@@ -1,0 +1,15 @@
+/__init__.py/1.1/Wed Oct 16 15:17:11 2019//
+/_auth.py/1.1/Wed Oct 16 15:17:11 2019//
+/_compat.py/1.1/Wed Oct 16 15:17:11 2019//
+/_socketio.py/1.1/Wed Oct 16 15:17:11 2019//
+/charset.py/1.1/Wed Oct 16 15:17:11 2019//
+/connections.py/1.1/Wed Oct 16 15:17:11 2019//
+D/constants////
+/converters.py/1.1/Wed Oct 16 15:17:11 2019//
+/cursors.py/1.1/Wed Oct 16 15:17:11 2019//
+/err.py/1.1/Wed Oct 16 15:17:11 2019//
+/optionfile.py/1.1/Wed Oct 16 15:17:11 2019//
+/protocol.py/1.1/Wed Oct 16 15:17:11 2019//
+D/tests////
+/times.py/1.1/Wed Oct 16 15:17:11 2019//
+/util.py/1.1/Wed Oct 16 15:17:11 2019//
